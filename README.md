@@ -32,4 +32,3 @@
 # O comando seria "git push -u" seria empurrar o git para a main
 ## 15-Passo
 # Sobre pull "Sicroniza as auteração que estao no git hub e tras para maquina local
-# eu amo o lorenzo
