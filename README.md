@@ -10,7 +10,6 @@
 ## 4-Passo
 # Entrar na pasta e clicar o botão direito do mouse e acessar o terminal/poweshel
 ## 5-Passo
-
 # Fazemos uma clonagem do rep
 ## 6-Passo
 # Usamos o comando git clone (link do codigo)
